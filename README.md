@@ -1,4 +1,4 @@
-# Snorkel Tutorials
+# [Snorkel Tutorials](https://github.com/snorkel-team/snorkel-tutorials)
 ![Snorkel Version](https://img.shields.io/badge/snorkel-0.9.5-65baf6)
 ![Python Version](https://img.shields.io/badge/python-3.6%20%7C%203.7-blue)
 [![build](https://travis-ci.com/snorkel-team/snorkel-tutorials.svg?branch=master)](https://travis-ci.com/snorkel-team/snorkel-tutorials?branch=master)
