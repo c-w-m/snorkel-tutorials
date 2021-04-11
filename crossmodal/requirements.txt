@@ -2,7 +2,7 @@ dask[complete]
 jupyter
 matplotlib
 numpy
-pandas
+pandas>=0.25.0
 scipy
 tensorboardX==1.4.0
 torchvision
