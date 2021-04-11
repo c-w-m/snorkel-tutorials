@@ -35,7 +35,8 @@ github_link: {github_link}
 
 
 GITHUB_LINK_TEMPLATE = (
-    "https://github.com/snorkel-team/snorkel-tutorials/blob/master/{notebook_path}"
+    "https://github.com/c-w-m/snorkel-tutorials/blob/master/{"
+    "notebook_path}"
 )
 
 
