@@ -1,0 +1,9 @@
+dask[complete]
+jupyter
+matplotlib
+numpy
+pandas
+scipy
+tensorboardX==1.4.0
+torchvision
+ludwig
